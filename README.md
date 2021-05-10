@@ -1,1 +1,1 @@
-# Database University Project
+# Database University Project (ITA)
