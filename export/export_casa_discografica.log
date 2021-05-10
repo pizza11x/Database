@@ -1,0 +1,86 @@
+
+Connesso a: Oracle Database 18c Express Edition Release 18.0.0.0.0 - Production
+Version 18.4.0.0.0
+Esportazione eseguita nel set di caratteri WE8MSWIN1252 e nel set di caratteri NCHAR AL16UTF16
+il server usa il set di caratteri AL32UTF8 (possibile conversione charset)
+. esportazione oggetti e azioni procedurali pre-schema in corso
+. esportazione dei nomi di libreria delle funzioni esterne per l'utente CASA_DISCOGRAFICA 
+. esportazione dei sinonimi di tipo PUBLIC
+. esportazione dei sinonimi di tipo privato
+. esportazione delle definizioni dei tipi di oggetto per l'utente CASA_DISCOGRAFICA 
+In corso esportazione degli oggetti di CASA_DISCOGRAFICA ...
+. in corso esportazione dei database link
+. in corso esportazione delle sequenze
+. in corso esportazione delle definizioni di cluster
+. in corso esportazione delle tabelle di CASA_DISCOGRAFICA tramite percorso convenzionale...
+. in corso esportazione della tabella                AGENZIA_BOOKING
+                                                           15 righe esportate
+. in corso esportazione della tabella                          ALBUM
+                                                           27 righe esportate
+. in corso esportazione della tabella                        ARTISTA
+                                                           18 righe esportate
+. in corso esportazione della tabella                         AUTORE
+                                                           17 righe esportate
+. in corso esportazione della tabella                        CANZONE
+                                                           79 righe esportate
+. in corso esportazione della tabella               CATEGORIA_PREMIO
+                                                           15 righe esportate
+. in corso esportazione della tabella                          CITTA
+                                                           28 righe esportate
+. in corso esportazione della tabella                       CONCERTI
+                                                           28 righe esportate
+. in corso esportazione della tabella                      CONTRATTO
+                                                           31 righe esportate
+. in corso esportazione della tabella                 DIRITTI_AUTORE
+                                                           28 righe esportate
+. in corso esportazione della tabella                    DISTRIBUITO
+                                                           57 righe esportate
+. in corso esportazione della tabella                   DISTRIBUTORE
+                                                           15 righe esportate
+. in corso esportazione della tabella                        FORMATO
+                                                           52 righe esportate
+. in corso esportazione della tabella                             HA
+                                                           15 righe esportate
+. in corso esportazione della tabella               INDIRIZZI_STUDIO
+                                                           15 righe esportate
+. in corso esportazione della tabella                        MANAGER
+                                                           15 righe esportate
+. in corso esportazione della tabella                          PREMI
+                                                           15 righe esportate
+. in corso esportazione della tabella                     PROMOZIONE
+                                                           32 righe esportate
+. in corso esportazione della tabella                     REGISTRATA
+                                                           77 righe esportate
+. in corso esportazione della tabella                         RICEVE
+                                                           51 righe esportate
+. in corso esportazione della tabella                        SCRITTA
+                                                          108 righe esportate
+. in corso esportazione della tabella                      STRUTTURE
+                                                           13 righe esportate
+. in corso esportazione della tabella                         STUDIO
+                                                           15 righe esportate
+. in corso esportazione della tabella              TIPO_DISTRIBUTORE
+                                                           25 righe esportate
+. in corso esportazione della tabella           TIPOLOGIA_PROMOZIONE
+                                                           34 righe esportate
+. in corso esportazione della tabella                  TOT_SPESE_LOG
+                                                            8 righe esportate
+. in corso esportazione della tabella                      VIDEOCLIP
+                                                           15 righe esportate
+. in corso esportazione di sinonimi
+. sto esportando viste
+. sto esportando procedure memorizzate
+. esportazione operatori in corso
+. in corso esportazione dei vincoli di integrità referenziale
+. esportazione trigger
+. esportazione tipi di indice in corso
+. esportazione indici bitmap, funzionali ed estensibili in corso
+. esportazione delle azioni di posttable in corso
+. esportazione viste materializzate
+. sto esportando log di istantanee
+. esportazione code dei lavori in corso
+. esportazione gruppi e figli di aggiornamento in corso
+. esportazione dimensioni in corso
+. esportazione oggetti e azioni procedurali post-schema in corso
+. esportazione statistiche
+Esportazione terminata senza avvertenze.
