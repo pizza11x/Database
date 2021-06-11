@@ -1,21 +1,11 @@
 # Database University Project (ITA)
 
-1) Exec_Procedure
-2) export
-3) script
+The first folder contains the 6 files with ".sql" extension referring to the executions of the 6 procedures with the suggested parameters to test them. The second folder, "export", contains the dump of our database together with the file with the ".log" extension.
 
-La prima cartella contiene i 6 file con estensione ".sql" riferiti alle esecuzioni delle 6 procedure con i parametri suggeriti per testarle.
-La seconda cartella, "export", contiene il dump del nostro database insieme al file con estensione ".log".
+The third folder is that of the scripts that must be compiled in the order in which they are numbered.
 
-La terza cartella è quella degli script che vanno compilati nell'ordine in cui sono numerati.
+It starts from the file "0_create_user_admin.sql" which contains the script to create the owner user, called "casa_discografica" with password "musica", which must be executed by the SYS user. Then there is the "1_create.sql" file which contains the scripts to create the tables with constraints and primary keys. The file "2_foreign.sql" follows, inside which we find the foreign keys of the tables. Then there is the "3_procedure.sql" file which contains the scripts to compile the 6 procedures. Then there is the "4_insert.sql" file which contains all the sorted inserts that will populate the tables. And lastly, the "5_trigger.sql" file must be compiled where the 9 triggers are present.
 
-Si parte dal file "0_create_user_admin.sql" che contiene lo script per creare l'utente proprietario, chiamato "casa_discografica" con password "musica", che va eseguito dall'utente SYS.
-Successivamente c'è il file "1_create.sql" che contiene gli script per creare le tabelle con i constraints e le primary key.
-Segue il file "2_foreign.sql" al cui interno troviamo le foreign key delle tabelle.
-Poi c'è il file "3_procedure.sql" che contiene gli script per compilare le 6 procedure.
-Successivamente c'è il file "4_insert.sql" che contiene tutti gli insert ordinati che andranno a popolare le tabelle.
-E per ultimo va compilato il file "5_trigger.sql" dove al suo interno sono presenti i 9 triggers.
+The "6_create_users" file is used to create "employee" and "accountant" users with their grants. This file must also be run by SYS.
 
-Il file "6_create_users" serve per creare gli utenti "impiegato" e "contabile" con i propri grant. Anche questo file va eseguito da SYS.
-
-Se si vogliono eliminare le tabelle va compilato l'ultimo file "999_drop_table.sql".
+If you want to delete the tables you have to fill in the last file "999_drop_table.sql".
